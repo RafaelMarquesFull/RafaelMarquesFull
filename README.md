@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome !
-![enter image description here](https://lh3.googleusercontent.com/EYcBZEUDlpwdSjtmpIioSXmUG3ZlkfS2oWQXmLLgmAnHzNS24NJA5luY3f4yIcYs5qwKzYqZeK9Of9KHAtWojvQSjhwkrrlmw12p93_BaxG1gaY64HohqpwVR3aDo7j2T9o-HIq0wcL4bIaa1CVoiUR8xqO5AtZ6dPa911_lBj4o2BcgYhkyuGc18VymzIhz0b5gSwv1VWSrSJ8l_wczs72ysutARkkZBavjZksGPJyNl3kK_JHz3CbetT_viwES_jJtUu1-sqWUUgvHjODae5sVsQRlLIRRsnqRN3BQCSq0sIJY4quLUV8XHhnY2OG6vTwXCLbuODMqoR4MSbdJXpnGqWabyr8smoOLGrjxTfDbZYfmhZTfsYmv-pAHefR7ojIRvXuVbksZQ9maDkgNLQ7uyt2IhrO_0h-aJv1F-sR3HpIE0Zlb4XYDLj3wzGERTTNl91t8UOjKvmMYHGG_r1adZqri0rknrO15um55fxbuqJvPHCP1K4HObD1BTkQnJUf_k97vwmWffdP3XgfHPGHc9Yi4TlpV7XEDmaP-lpIC1ZJ1tGTTD_q8QC0yO1lU3FFOEdksewaQ3T1hzQshoGuGYH7vWlxBJ6Xr5uhfS3g_mJJPbp5deXymxgtGqNyR9h1JTw2Vem2Z2S2jM2vNyZFdGqYpyQZva1lW7zdJyzYcqq2Jeic_iu3EdOZloqPHKUkMXzwkJooi9658kDOkMNZ3pyStVB3sQkNrRkt-GJ3_onbuLAjy1L5GCgQ=s625-no?authuser=0)
+# ** Hello, welcome, I'm Rafael Full Stack dev**
+
+![enter image description here](https://lh3.googleusercontent.com/cgx-2kX4SMEpftv5wZMmCu9qNQhBNoPf_ZkRr74Lge_WFfJswD2nb01sbxRc6jIDfZORI9bPLW0G4HLXvJggbDLz_iHUE4-OXOzyMfuaMssRletQaihPyC1Spz7TF5591asi8R4E41o9tZ-ZsT9u3rzK4_B1YV7alvSQZL0mHkxWjit-PpQxgTs7KmNrDNo9p9Fwe0gQhlsD3WQAFeaxKM1YkTLEjzpXNf6EALdtSlvz8qxV5dxdagTCETP1C_G2cxp236TZPl62DIuqrqGqkd1aTM_2lWHDnxwZF1Y4EAKIO8n6MGAacVYjp6kF4a5Z6Mxgq9cpXykuBCxvKfMmfCpAUPwRVganP0YoDZAaaA5UOMdlYNG8DTJJ_4YftyXh8tALd7NAoLSMOPD6aDh6AMbDW70iCav6sxo5Te8n-oQgLlT6Xm7xEZsbLjskK6X1RKHbkuzPteVupXyT9Ydr2YDTAewxs5VFqHPPEuA9j0Ir1XhSlTMeWh9934bQJKlPV-kndwtzGC72KfWrHEm1iafjgl64N6ExFBCrqN0bgDF822SoflDpIXqk4Prhs6Z-dnvNg_jgY05UfD_fWgKmYw8zR7MrHLq9tS0dckKEYUpYLVpzw_TIEWEXUmcooiKACJJRumLxco7fMw2flaCHOflOw-07sGkSlEOKnXD4PzqtCiTWsEonBY6KMRj1DsbIGusiwT54JgCiBDfVhONG0GYZ8GMXubdvtdtjuqODdAoijH7Qk0NzzREpvCc=s400-no?authuser=0)
+
+Skills:
+|HTML5|CSS|JAVASCRIPT|REACT|REDUX|APIs|PYTHON|PHP|BOOTSTRAP|SQL|PostgreSQL|C#|jQuery|SASS|MongoDB|JSON|AJAX|	 	
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
