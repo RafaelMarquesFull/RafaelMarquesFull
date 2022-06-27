@@ -1,23 +1,28 @@
-### Hi there 👋
+------------
 
-<!--
-**RafaelMarquesFull/RafaelMarquesFull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+------------
+  
+<p align="center">
+Hello, welcome i'm rafael full stack dev junior it's a great pleasure to have you here. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# ** Hello, welcome, I'm Rafael Full Stack dev**
+------------
 
-![enter image description here](https://lh3.googleusercontent.com/cgx-2kX4SMEpftv5wZMmCu9qNQhBNoPf_ZkRr74Lge_WFfJswD2nb01sbxRc6jIDfZORI9bPLW0G4HLXvJggbDLz_iHUE4-OXOzyMfuaMssRletQaihPyC1Spz7TF5591asi8R4E41o9tZ-ZsT9u3rzK4_B1YV7alvSQZL0mHkxWjit-PpQxgTs7KmNrDNo9p9Fwe0gQhlsD3WQAFeaxKM1YkTLEjzpXNf6EALdtSlvz8qxV5dxdagTCETP1C_G2cxp236TZPl62DIuqrqGqkd1aTM_2lWHDnxwZF1Y4EAKIO8n6MGAacVYjp6kF4a5Z6Mxgq9cpXykuBCxvKfMmfCpAUPwRVganP0YoDZAaaA5UOMdlYNG8DTJJ_4YftyXh8tALd7NAoLSMOPD6aDh6AMbDW70iCav6sxo5Te8n-oQgLlT6Xm7xEZsbLjskK6X1RKHbkuzPteVupXyT9Ydr2YDTAewxs5VFqHPPEuA9j0Ir1XhSlTMeWh9934bQJKlPV-kndwtzGC72KfWrHEm1iafjgl64N6ExFBCrqN0bgDF822SoflDpIXqk4Prhs6Z-dnvNg_jgY05UfD_fWgKmYw8zR7MrHLq9tS0dckKEYUpYLVpzw_TIEWEXUmcooiKACJJRumLxco7fMw2flaCHOflOw-07sGkSlEOKnXD4PzqtCiTWsEonBY6KMRj1DsbIGusiwT54JgCiBDfVhONG0GYZ8GMXubdvtdtjuqODdAoijH7Qk0NzzREpvCc=s400-no?authuser=0)
 
-Skills:
-|HTML5|CSS|JAVASCRIPT|REACT|REDUX|APIs|PYTHON|PHP|BOOTSTRAP|SQL|PostgreSQL|C#|jQuery|SASS|MongoDB|JSON|AJAX|	 	
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+------------
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107640792/175847002-03905537-7fe8-4f59-8985-f261fbea83e0.jpg" width="250" height="250">
+</p>
+
+------------
+
+
+------------
+<img src="https://user-images.githubusercontent.com/107640792/175851130-5d23372e-b8d9-4bc6-b62c-b72bea7508f5.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851132-7db31941-5c2f-4014-b025-69c30ea2a8b3.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851134-46173775-1eaf-4e59-ae06-c3856ea9205a.png" width="60" height="60"><img src=" https://user-images.githubusercontent.com/107640792/175851136-0caf357f-15f4-459a-b25d-c52f36de4ee3.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851137-841d2e3b-c8d6-4bf3-a186-f6b21c17aa05.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851138-3ab0c861-64e4-48c3-8d69-7270b753944a.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851139-9587143a-5f4a-478b-8c19-fdf3357cecc8.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851140-1730ca8b-3fd9-4dd0-9c93-ff46f1042ae5.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851142-08bbb879-a61c-47c1-9358-3fefbeb08143.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851143-ea8b60af-af7f-4217-acdc-0d2b9c85d3d7.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851144-2fd41493-1478-4355-a1dd-06a24b17c90f.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851148-ed139c75-7765-4508-a605-e187322dbc88.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851149-6de2b516-971e-482b-a57b-0bfdedc0efd4.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/107640792/175851150-06e7826c-9eca-4e4c-b090-04d09002dfc0.png" width="60" height="60">
+	 	
+
+<details>
+<summary>Clique aqui para exibir</summary>
+Ola aqui estão alguns exemplos de projetos
+</details>
