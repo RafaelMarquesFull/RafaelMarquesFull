@@ -4,7 +4,7 @@
 ------------
   
 <p align="center">
-Hello, welcome i'm Rafael full stack dev junior it's a great pleasure to have you here. 
+Hello, welcome i'm Rafael full stack dev it's a great pleasure to have you here. 
 </p>
 
 ------------
