@@ -12,8 +12,7 @@ Hello, welcome i'm Rafael full stack dev it's a great pleasure to have you here.
 
 ------------
 <p align="center">
-<img src="![rafalinkedin](https://user-images.githubusercontent.com/107640792/181052322-582aaaad-5eb4-4334-9fdc-bfb581be2e4c.png)
-" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/107640792/181052322-582aaaad-5eb4-4334-9fdc-bfb581be2e4c.png" width="250" height="250">
 </p>
 
 
