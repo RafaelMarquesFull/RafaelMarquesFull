@@ -22,6 +22,11 @@
 
 <div style="display: inline_block" aling="center"><br>
 <img aling="center" alt="html5" src=https://github-readme-stats.vercel.app/api?username=RafaelMarquesFull&show_icons=true&theme=merko>
+</div>
+
+------------
+
+<div style="display: inline_block" aling="center"><br>
 <img aling="center" alt="html5" src=https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMarquesFull&theme=merko>
 </div>
 
@@ -36,7 +41,6 @@
     <img aling="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img aling="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img aling="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img aling="center" alt="selenium" src="https://img.shields.io/badge/SELENIUM-32cd32?style=for-the-badge>">
     <img aling="center" alt="IONIC" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
     <img aling="center" alt="REACT NATIVE" SRC="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -51,7 +55,7 @@
     <img aling="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img aling="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img aling="center" alt="VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img aling="center" alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
 -------
