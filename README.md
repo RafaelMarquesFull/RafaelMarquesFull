@@ -4,7 +4,7 @@
 ------------
   
 <p align="center">
-Hello, welcome i'm Rafael full stack dev it's a great pleasure to have you here. 
+    Hello, welcome, I'm Rafael full stack freelancer developer and it's a pleasure to have you here, feel free to contact me any way you want. 
 </p>
 
 
@@ -26,8 +26,8 @@ Hello, welcome i'm Rafael full stack dev it's a great pleasure to have you here.
 </div>
 
 ------------
-##  SKILLS:
-
+##  SKILLS
+ #### Technologies used in my daily life:
 <div style="display: inline_block"><br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -58,7 +58,18 @@ Hello, welcome i'm Rafael full stack dev it's a great pleasure to have you here.
 <br>
 
 
-<details>
-<summary>Clique aqui para exibir</summary>
-Ola aqui estão alguns exemplos de projetos
-</details>
+## WORK PLATFORMS
+#### Platforms I work on as a freelancer:
+<br>
+
+- [![WORKANA](https://img.shields.io/badge/WORKANA-120a8f?style=for-the-badge)](https://www.workana.com/freelancer/266095c7f11995f82632c8b71f7ff068)
+- [![UPWORK](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]()
+
+## LATEST PROJECTS:
+-
+-
+-
+-
+-
+-
+-
