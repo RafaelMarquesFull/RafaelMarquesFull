@@ -28,7 +28,7 @@
 
 ------------
 ##  SKILLS
- #### Technologies used in my daily life:
+ <h4><strong>Technologies used in my daily life:</strong></h4> 
 <div style="display: inline_block"><br>
     <div style="text-align:center":>
         <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -53,7 +53,7 @@
         <img aling="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         <img aling="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
         <img aling="center" alt="VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-        <img aling="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+        <img aling="center" alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         <img aling="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
         <img aling="center" alt="VS-CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
         <img aling="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -72,7 +72,7 @@
 
 
 ## WORK PLATFORMS
-#### Platforms I work on as a freelancer:
+<h4><strong>Platforms I work on as a freelancer:</strong></h4>
 <br>
 
 - [![WORKANA](https://img.shields.io/badge/WORKANA-120a8f?style=for-the-badge)](https://www.workana.com/freelancer/266095c7f11995f82632c8b71f7ff068)
@@ -83,8 +83,10 @@
 <ul>
     <li>
         <h3><strong> Ecommerce and Support Frontend Designers (SECRET DREAMS)<h3>
-        <div style="text-align:center":> 
-            <img aling="center"  alt="HTML5" src="https://img.shields.io/badge/View-32CD32?style=for-the-badge"> 
+        <div style="text-align:center":>
+            <a href="https://www.secretdreams.com.br/" target="_blank">
+                <img aling="center"  alt="HTML5" src="https://img.shields.io/badge/View-32CD32?style=for-the-badge">
+            </a>
         </div>
         <hr>
         <h4> Technologies:<h4>
@@ -102,10 +104,16 @@
     </li>
     <li>
         <h3><strong>Mobile app and API integration( YES CONSULTA ) <h3>
-        <div style="text-align:center":> 
-            <img aling="center" alt="VIEW" src="https://img.shields.io/badge/View-32CD32?style=for-the-badge">
-            <img aling="center" alt="APPLE STORE" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
-            <img aling="center" alt="PLAY STORE" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"> 
+        <div style="text-align:center":>
+            <a href="https://www.yesconsulta.com/" target="_blank"> 
+                <img aling="center" alt="VIEW" src="https://img.shields.io/badge/View-32CD32?style=for-the-badge">
+            </a>
+            <a href="https://apps.apple.com/br/app/yes-consulta/id6445896177" target="_blank">
+                <img aling="center" alt="APPLE STORE" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=com.yesconsulta.app" target="_blank">
+                <img aling="center" alt="PLAY STORE" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+            </a> 
         </div>
             <hr>
             <h4> Technologies:<h4>
@@ -150,6 +158,19 @@
             <hr>
             <h4> Technologies:<h4>
             <div style="text-align:center":>
+                <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+                <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+                <img aling="center" alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+                <img aling="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+                <img aling="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+                <img aling="center" alt="REACT NATIVE" SRC="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+                <img aling="center" alt="IONIC" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+                <img aling="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+                <img aling="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+                <img aling="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+                <img aling="center" alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+                <img aling="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
             </div>
             <hr>
             <h4>Datails:</h4>
@@ -176,7 +197,11 @@
                 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
                 <img aling="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
                 <img aling="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+                <img aling="center" alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+                 <img aling="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
                 <img aling="center" alt="POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+                <img aling="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+                <img aling="center" alt="LINUX" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
             </div>
             <hr>
             <h4>Datails:</h4>
