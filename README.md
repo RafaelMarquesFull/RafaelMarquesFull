@@ -153,7 +153,13 @@
         <li>
              <h3><strong> Web site back end and front end( ORTHODENS) <h3>
             <div style="text-align:center":> 
-                <img aling="center" alt="HTML5" src="https://img.shields.io/badge/View-32CD32?style=for-the-badge"> 
+                <img aling="center" alt="HTML5" src="https://img.shields.io/badge/View-32CD32?style=for-the-badge">
+                <a href="" target="_blank">
+                    <img aling="center" alt="APPLE STORE" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+                </a>
+                <a href="" target="_blank">
+                    <img aling="center" alt="PLAY STORE" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"> 
+                </a>
             </div>
             <hr>
             <h4> Technologies:<h4>
