@@ -27,7 +27,7 @@
 </div>
 
 ------------
-##  SKILLS
+##  SKILLS:
  <h4><strong>Technologies used in my daily life:</strong></h4> 
 <div style="display: inline_block"><br>
     <div style="text-align:center":>
@@ -79,7 +79,7 @@
 - [![UPWORK](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]()
 <br>
 
-## LATEST PROJECTS
+## LATEST PROJECTS:
 
 <ul>
 <br>
