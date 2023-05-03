@@ -10,7 +10,7 @@
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5538998501077)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldeveloperfullstack/)
 [![PORTIFÓLIO](https://img.shields.io/badge/website-000000?style=for-the-badge)]()
-[![CURRICULO](https://img.shields.io/badge/Curricle-orange?style=for-the-badge&logo=codecademy&logoColor=30337)]()
+[![CURRICULO](https://img.shields.io/badge/Curricle-orange?style=for-the-badge&logo=codecademy&logoColor=30337)](https://drive.google.com/file/d/1mNcPkbaEjuJiRttMxBvM9zZgHHIBmdcZ/view?usp=sharing)
 
 
 ------------
