@@ -183,7 +183,7 @@
             </div>
         </li>
     <hr style="background-color: #FFD700">
-    <hr style="background-color: #FFD700">
+<!--     <hr style="background-color: #FFD700">
         <li>
             <h3><strong>Laboratory management system (LIMS) and mobile geolocation app( OIKOS LAB ) <h3>
             <div style="text-align:center":> 
@@ -212,5 +212,5 @@
             <div style="text-align:center":></div>
         </li>
     <hr style="background-color: #FFD700">
-    <hr style="background-color: #FFD700">
+    <hr style="background-color: #FFD700"> -->
 
