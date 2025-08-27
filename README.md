@@ -69,7 +69,7 @@
 
 ### 🎓 Education
 - **Tecnólogo em Banco de Dados – XP Educacional (2022–2025)**  
-- **Tecnólogo em Tecnologia da Informação – UFMS (2022–2025)**  
+- **Tecnólogo em Tecnologia da Informação – UFMS (2022–2026)**  
 
 **Bootcamps & Courses:**  
 XPE (SQL/NoSQL, Back-End), DevOps & Cloud (AWS/EXIN), Digital Ocean, FreeCodeCamp, DIO, Oracle Next, Alura, Coursera UX  
