@@ -78,6 +78,6 @@ XPE (SQL/NoSQL, Back-End), DevOps & Cloud (AWS/EXIN), Digital Ocean, FreeCodeCam
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelMarquesFull&show_icons=true&theme=merko">
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMarquesFull&theme=merko">
 </div>
