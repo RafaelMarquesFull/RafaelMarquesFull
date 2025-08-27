@@ -15,7 +15,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538998501077)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldeveloperfullstack/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelMarquesFull)
-[![Currículo](https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1mNcPkbaEjuJiRttMxBvM9zZgHHIBmdcZ/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1pK_gRqmyYjimwzvKNRqPHwNIkbJZnnr0apR5FwVDBWQ/edit?usp=drive_link)
 [![Creative](https://img.shields.io/badge/Creative_Tech_Community-9146FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://creativetechnology.com.br/)
 [![RaillsAI](https://img.shields.io/badge/RAILLS_AI-000?style=for-the-badge&logo=OpenAI&logoColor=white)](https://www.raillsai.com/)
 
